@@ -1,0 +1,9 @@
+{
+  "name": "supergulp",
+  "version": "1.0.0",
+  "description": "Learn Gulp by building an awsome development environment",
+  "main": "index.js",
+  "repository": "https://github.com/hwdhyeon/super-gulp",
+  "author": "황동현 <dev_donghyun@kakao.com>",
+  "license": "MIT"
+}
