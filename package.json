@@ -5,5 +5,17 @@
   "main": "index.js",
   "repository": "https://github.com/hwdhyeon/super-gulp",
   "author": "황동현 <dev_donghyun@kakao.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "@babel/register": "^7.16.0"
+  }
 }
